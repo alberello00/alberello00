@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-- I'm currently working on developing a RAG model
+- I'm currently working on developing RAG models
 
 
 
