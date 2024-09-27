@@ -21,7 +21,7 @@
 
 - I'm currently working on developing RAG models
 - Mainteiner and contributor of https://github.com/Unibo-StatStudents
-
+- Contact me at albertotrashaj31@gmail.com
 
 
 ---
