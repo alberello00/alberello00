@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-- I'm currently working on developing RAG models
+- I'm currently working on NLP applications
 - Mainteiner and contributor of https://github.com/Unibo-StatStudents
 - Contact me at albertotrashaj31@gmail.com
 
